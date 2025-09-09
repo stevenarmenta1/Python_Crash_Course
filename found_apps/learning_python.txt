@@ -1,0 +1,4 @@
+In Python you can create classes that can store a lot of information. 
+In Python you can create a list, tuple, and dictionaries too. 
+In Python you can create projects and use files and excemptions. 
+In Python you really can create anythin you would like. 
